@@ -1,0 +1,22 @@
+{
+  "name": "irceline-luftdaten_map",
+  "version": "1.0.0",
+  "description": "A map that combines Air Quality data from Irceline and luftdaten",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CivicLabsBelgium/Irceline-luftdaten_map.git"
+  },
+  "author": "toon.nelissen@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CivicLabsBelgium/Irceline-luftdaten_map/issues"
+  },
+  "homepage": "https://github.com/CivicLabsBelgium/Irceline-luftdaten_map#readme",
+  "dependencies": {
+    "serve": "^6.4.3"
+  }
+}
